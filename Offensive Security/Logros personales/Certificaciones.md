@@ -1,0 +1,5 @@
+- [ ] eJPT
+- [ ] OSCP
+- [ ] OSCE
+- [ ] OSWE
+- [ ] CPT
