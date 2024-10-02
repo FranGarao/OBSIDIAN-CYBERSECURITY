@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Evil WinRm.md",
+                "file": "Vulns/Searchs/DBs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Evil WinRm.md",
+                "file": "Vulns/Searchs/DBs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Evil WinRm.md",
+                "file": "Vulns/Searchs/DBs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Evil WinRm.md"
+                "file": "Vulns/Searchs/DBs.md"
               }
             }
           }
@@ -151,22 +151,28 @@
     "Tools/John the Ripper.md",
     "Tools/Evil WinRm.md",
     "Preguntas/Responder.md",
+    "Logros personales/Certificaciones.md",
+    "Desarrollo Personal/Aprendizaje Acelerado.md",
+    "Vulns/Web/Dirs/Check Dirs.md",
+    "Vulns/Cloud/AWS/S3 Bucket.md",
+    "Vulns/Web/Dirs",
+    "Vulns/Searchs/DBs.md",
+    "Vulns/Cloud/AWS",
+    "Vulns/Web",
+    "Vulns/Searchs",
+    "Vulns/Cloud",
+    "Vulns",
+    "Desarrollo Personal",
     "Web/Vulns/NTLM.md",
     "Preguntas",
     "Web/Vulns/Local File Inclusion (FLI)/File Inclusion Vulnerability.md",
     "TODO/Untitled.md",
     "Web/Vulns/Local File Inclusion (FLI)",
     "Web/Vulns",
-    "Web",
     "Tools/Metasploit Framework/Commands.md",
-    "TODO",
     "Protocols/SMB.md",
-    "Tools/Metasploit Framework",
     "Tools/Metasploit.md",
-    "Tools",
     "DB/Redis/WhatIs.md",
-    "DB/Redis",
-    "DB",
     "Protocols/HTTP.md",
     "Protocols/HTTPS.md",
     "Protocols/POP3.md",
@@ -178,12 +184,6 @@
     "Protocols/KERBEROS.md",
     "Protocols/LDAP.md",
     "Protocols/RDP.md",
-    "Protocols/RPC.md",
-    "Protocols/SMTP.md",
-    "Protocols/NTP.md",
-    "Protocols/TELNET.md",
-    "Protocols/IMAP.md",
-    "Protocols",
     "Templates/Untitled.canvas"
   ]
 }

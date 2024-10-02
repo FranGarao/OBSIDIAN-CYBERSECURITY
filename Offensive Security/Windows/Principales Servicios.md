@@ -57,3 +57,7 @@
 - **Servicio**: Protocolo de autenticación utilizado en redes Windows para verificar la identidad de usuarios.
 - **Puerto**: **88** (TCP/UDP).
 - **Uso**: Autenticación segura de usuarios en entornos de dominio Windows.
+
+
+#Notes
+Puede estar en otro puerto, en caso de sospechar posible puerto RDP, utilizar un scanner RDP de msf
