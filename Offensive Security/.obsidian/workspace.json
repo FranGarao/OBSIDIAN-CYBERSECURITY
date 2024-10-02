@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/SMB.md",
+                "file": "Tools/Evil WinRm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/SMB.md",
+                "file": "Tools/Evil WinRm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/SMB.md",
+                "file": "Tools/Evil WinRm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/SMB.md"
+                "file": "Tools/Evil WinRm.md"
               }
             }
           }
@@ -148,6 +148,25 @@
   },
   "active": "a6a58ec6767b8ad2",
   "lastOpenFiles": [
+    "Tools/John the Ripper.md",
+    "Tools/Evil WinRm.md",
+    "Preguntas/Responder.md",
+    "Web/Vulns/NTLM.md",
+    "Preguntas",
+    "Web/Vulns/Local File Inclusion (FLI)/File Inclusion Vulnerability.md",
+    "TODO/Untitled.md",
+    "Web/Vulns/Local File Inclusion (FLI)",
+    "Web/Vulns",
+    "Web",
+    "Tools/Metasploit Framework/Commands.md",
+    "TODO",
+    "Protocols/SMB.md",
+    "Tools/Metasploit Framework",
+    "Tools/Metasploit.md",
+    "Tools",
+    "DB/Redis/WhatIs.md",
+    "DB/Redis",
+    "DB",
     "Protocols/HTTP.md",
     "Protocols/HTTPS.md",
     "Protocols/POP3.md",
@@ -160,26 +179,11 @@
     "Protocols/LDAP.md",
     "Protocols/RDP.md",
     "Protocols/RPC.md",
-    "Protocols/SMB.md",
     "Protocols/SMTP.md",
     "Protocols/NTP.md",
     "Protocols/TELNET.md",
     "Protocols/IMAP.md",
-    "Protocols/DNS.md",
-    "Protocols/SSH.md",
-    "Protocols/FTP.md",
-    "Protocols/SSHSSHssSSHSSHsshttps.md",
     "Protocols",
-    "RDP.md",
-    "Nmap.md",
-    "Ciberseguridad/Nmap.md",
-    "Ciberseguridad/Linux.md",
-    "Windows",
-    "Universidad/CLASES UNI.md",
-    "Templates/Untitled.canvas",
-    "Templates",
-    "Logros personales",
-    "Ciberseguridad",
-    "Universidad"
+    "Templates/Untitled.canvas"
   ]
 }
