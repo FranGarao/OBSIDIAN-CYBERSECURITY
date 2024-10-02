@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/SMB.md",
+                "file": "Vulns/Cloud/AWS/S3 Bucket.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rdp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/SMB.md",
+                "file": "Vulns/Cloud/AWS/S3 Bucket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocols/SMB.md",
+                "file": "Vulns/Cloud/AWS/S3 Bucket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols/SMB.md"
+                "file": "Vulns/Cloud/AWS/S3 Bucket.md"
               }
             }
           }
@@ -146,8 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6a58ec6767b8ad2",
+  "active": "7f60c788cb614aa5",
   "lastOpenFiles": [
+    "Desarrollo Personal/Aprendizaje Acelerado.md",
+    "Vulns/Cloud/AWS/S3 Bucket.md",
+    "Vulns/Cloud/AWS",
+    "Vulns/Cloud",
+    "Vulns/Web/Dirs/Check Dirs.md",
+    "Desarrollo Personal",
+    "Vulns/Searchs/DBs.md",
+    "Vulns/Searchs",
+    "Protocols/SSH.md",
+    "Vulns/Web/Dirs",
+    "Vulns/Web",
+    "Vulns",
+    "Protocols/TELNET.md",
+    "Protocols/SMB.md",
     "Protocols/HTTP.md",
     "Protocols/HTTPS.md",
     "Protocols/POP3.md",
@@ -160,26 +175,16 @@
     "Protocols/LDAP.md",
     "Protocols/RDP.md",
     "Protocols/RPC.md",
-    "Protocols/SMB.md",
     "Protocols/SMTP.md",
     "Protocols/NTP.md",
-    "Protocols/TELNET.md",
     "Protocols/IMAP.md",
     "Protocols/DNS.md",
-    "Protocols/SSH.md",
     "Protocols/FTP.md",
     "Protocols/SSHSSHssSSHSSHsshttps.md",
     "Protocols",
     "RDP.md",
-    "Nmap.md",
-    "Ciberseguridad/Nmap.md",
-    "Ciberseguridad/Linux.md",
     "Windows",
-    "Universidad/CLASES UNI.md",
     "Templates/Untitled.canvas",
-    "Templates",
-    "Logros personales",
-    "Ciberseguridad",
-    "Universidad"
+    "Templates"
   ]
 }
