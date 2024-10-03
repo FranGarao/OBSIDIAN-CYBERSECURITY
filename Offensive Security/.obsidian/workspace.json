@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,13 +148,15 @@
   },
   "active": "a6a58ec6767b8ad2",
   "lastOpenFiles": [
+    "Windows/Vulnerabilidades.md",
     "Vulns/Cloud/AWS/S3 Bucket.md",
+    "Vulns/Searchs/DBs.md",
+    "Windows/Principales Servicios.md",
     "Desarrollo Personal/Aprendizaje Acelerado.md",
     "Vulns/Cloud/AWS",
     "Vulns/Cloud",
     "Vulns/Web/Dirs/Check Dirs.md",
     "Desarrollo Personal",
-    "Vulns/Searchs/DBs.md",
     "Vulns/Searchs",
     "Protocols/SSH.md",
     "Vulns/Web/Dirs",
@@ -166,8 +167,6 @@
     "Protocols/HTTP.md",
     "Protocols/HTTPS.md",
     "Protocols/POP3.md",
-    "Windows/Vulnerabilidades.md",
-    "Windows/Principales Servicios.md",
     "Protocols/SNMP.md",
     "Protocols/POSTGRESQL.md",
     "Protocols/MYSQL.md",
