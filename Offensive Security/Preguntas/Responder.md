@@ -1,0 +1,1 @@
+Como funciona? por que me devuelve un user y un hash cuando le envio cierta url con mi ip? 
