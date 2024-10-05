@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Protocols/RPC.md",
+=======
+                "file": "Windows/Principales Servicios.md",
+>>>>>>> 680c0b6a96674e5e027c8abf215badc1bccab1d5
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +52,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "path:\"Logros personales\" path:",
+=======
+                "query": "rdp",
+>>>>>>> 680c0b6a96674e5e027c8abf215badc1bccab1d5
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +93,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Protocols/RPC.md",
+=======
+                "file": "Windows/Principales Servicios.md",
+>>>>>>> 680c0b6a96674e5e027c8abf215badc1bccab1d5
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Protocols/RPC.md",
+=======
+                "file": "Windows/Principales Servicios.md",
+>>>>>>> 680c0b6a96674e5e027c8abf215badc1bccab1d5
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Protocols/RPC.md"
+=======
+                "file": "Windows/Principales Servicios.md"
+>>>>>>> 680c0b6a96674e5e027c8abf215badc1bccab1d5
               }
             }
           }
@@ -146,6 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "48069c003f1a4a30",
   "lastOpenFiles": [
     "Web/Vulns/SSTI/Server Side Template Injection.md",
@@ -184,6 +205,46 @@
     "Vulns/Web",
     "Vulns/Searchs",
     "Vulns/Cloud",
+=======
+  "active": "dad5263b9c4136e3",
+  "lastOpenFiles": [
+    "Web/Vulns/Local File Inclusion (FLI)/File Inclusion Vulnerability.md",
+    "Web/Vulns/NTLM.md",
+    "Web/Vulns/Local File Inclusion (FLI)",
+    "Web/Vulns",
+    "Web",
+    "Tools/Metasploit Framework/Commands.md",
+    "Tools/Metasploit Framework",
+    "Tools/John the Ripper.md",
+    "Tools/Evil WinRm.md",
+    "Tools",
+    "TODO/Untitled.md",
+    "TODO",
+    "Preguntas/Responder.md",
+    "Preguntas",
+    "DB/Redis/WhatIs.md",
+    "DB/Redis",
+    "DB",
+    "Windows/Vulnerabilidades.md",
+    "Vulns/Cloud/AWS/S3 Bucket.md",
+    "Vulns/Searchs/DBs.md",
+    "Windows/Principales Servicios.md",
+    "Desarrollo Personal/Aprendizaje Acelerado.md",
+    "Vulns/Cloud/AWS",
+    "Vulns/Web/Dirs/Check Dirs.md",
+    "Protocols/SSH.md",
+    "Protocols/TELNET.md",
+    "Protocols/SMB.md",
+    "Protocols/HTTP.md",
+    "Protocols/HTTPS.md",
+    "Protocols/POP3.md",
+    "Protocols/SNMP.md",
+    "Protocols/POSTGRESQL.md",
+    "Protocols/MYSQL.md",
+    "Protocols/KERBEROS.md",
+    "Protocols/LDAP.md",
+    "Protocols/RDP.md",
+>>>>>>> 680c0b6a96674e5e027c8abf215badc1bccab1d5
     "Templates/Untitled.canvas"
   ]
 }
