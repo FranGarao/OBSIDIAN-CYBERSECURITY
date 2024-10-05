@@ -13,8 +13,14 @@
 - **Servicios**:
     - **Remote Desktop Services (RDS)** en Windows.
 
-- **Comandos**:
+- Tools:
 ```
 mstsc /v:hostname
 rdesktop hostname
+xfreerdp
+BlueKeep
 ```
+
+- Vulns:
+	 1. CVE-2019-0708 (WindowsXP, Vista, 7, 2008 & R2)
+	 2. 

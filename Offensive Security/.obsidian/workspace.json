@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c99e263a1fe5545",
+        "id": "93c1fc22cb5de8b0",
         "type": "tabs",
         "children": [
           {
-            "id": "a6a58ec6767b8ad2",
+            "id": "48069c003f1a4a30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulns/Searchs/DBs.md",
+                "file": "Protocols/RPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Logros personales\" path:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulns/Searchs/DBs.md",
+                "file": "Protocols/RPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulns/Searchs/DBs.md",
+                "file": "Protocols/RPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulns/Searchs/DBs.md"
+                "file": "Protocols/RPC.md"
               }
             }
           }
@@ -146,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6a58ec6767b8ad2",
+  "active": "48069c003f1a4a30",
   "lastOpenFiles": [
+    "Web/Vulns/SSTI/Server Side Template Injection.md",
+    "TODO/TODO.md",
+    "Protocols/RDP.md",
+    "OS/Kernel/Kernel.md",
+    "CVE-2019-0708.md",
+    "OS/Kernel",
+    "OS",
+    "Protocols/FTP.md",
+    "TODO/HTB/Academy Modules.md",
+    "TODO/HTB",
+    "Protocols/SSH.md",
+    "Web/Http/Codes.md",
+    "Web/Vulns/SSTI",
+    "Web/Http",
+    "Protocols/WinRM.md",
+    "Protocols/TELNET.md",
+    "Protocols/RPC.md",
+    "OS/Windows/Principales Servicios.md",
+    "Protocols/IMAP.md",
+    "Protocols/HTTPS.md",
+    "Protocols/KERBEROS.md",
+    "Protocols/MYSQL.md",
+    "Protocols/NTP.md",
+    "Protocols/POP3.md",
+    "Protocols/SNMP.md",
+    "Protocols/SMTP.md",
+    "Protocols/POSTGRESQL.md",
+    "Logros personales/Certificaciones.md",
+    "Vulns/Searchs/DBs.md",
     "Tools/John the Ripper.md",
     "Tools/Evil WinRm.md",
-    "Preguntas/Responder.md",
-    "Logros personales/Certificaciones.md",
-    "Desarrollo Personal/Aprendizaje Acelerado.md",
-    "Vulns/Web/Dirs/Check Dirs.md",
-    "Vulns/Cloud/AWS/S3 Bucket.md",
     "Vulns/Web/Dirs",
-    "Vulns/Searchs/DBs.md",
     "Vulns/Cloud/AWS",
     "Vulns/Web",
     "Vulns/Searchs",
     "Vulns/Cloud",
-    "Vulns",
-    "Desarrollo Personal",
-    "Web/Vulns/NTLM.md",
-    "Preguntas",
-    "Web/Vulns/Local File Inclusion (FLI)/File Inclusion Vulnerability.md",
-    "TODO/Untitled.md",
-    "Web/Vulns/Local File Inclusion (FLI)",
-    "Web/Vulns",
-    "Tools/Metasploit Framework/Commands.md",
-    "Protocols/SMB.md",
-    "Tools/Metasploit.md",
-    "DB/Redis/WhatIs.md",
-    "Protocols/HTTP.md",
-    "Protocols/HTTPS.md",
-    "Protocols/POP3.md",
-    "Windows/Vulnerabilidades.md",
-    "Windows/Principales Servicios.md",
-    "Protocols/SNMP.md",
-    "Protocols/POSTGRESQL.md",
-    "Protocols/MYSQL.md",
-    "Protocols/KERBEROS.md",
-    "Protocols/LDAP.md",
-    "Protocols/RDP.md",
     "Templates/Untitled.canvas"
   ]
 }
