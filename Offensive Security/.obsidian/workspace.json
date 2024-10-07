@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Principales Servicios.md",
+                "file": "Web/Tools/Gobuster.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Principales Servicios.md",
+                "file": "Web/Tools/Gobuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Principales Servicios.md",
+                "file": "Web/Tools/Gobuster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Principales Servicios.md"
+                "file": "Web/Tools/Gobuster.md"
               }
             }
           }
@@ -146,8 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dad5263b9c4136e3",
+  "active": "a6a58ec6767b8ad2",
   "lastOpenFiles": [
+    "Tools/John the Ripper.md",
+    "Web/Tools/Gobuster.md",
+    "Web/Tools",
+    "Tools/Web/Untitled",
+    "Tools/Web",
+    "Tools/Evil WinRm.md",
+    "Windows/Principales Servicios.md",
     "Web/Vulns/Local File Inclusion (FLI)/File Inclusion Vulnerability.md",
     "Web/Vulns/NTLM.md",
     "Web/Vulns/Local File Inclusion (FLI)",
@@ -155,22 +162,16 @@
     "Web",
     "Tools/Metasploit Framework/Commands.md",
     "Tools/Metasploit Framework",
-    "Tools/John the Ripper.md",
-    "Tools/Evil WinRm.md",
     "Tools",
     "TODO/Untitled.md",
     "TODO",
     "Preguntas/Responder.md",
     "Preguntas",
     "DB/Redis/WhatIs.md",
-    "DB/Redis",
-    "DB",
     "Windows/Vulnerabilidades.md",
     "Vulns/Cloud/AWS/S3 Bucket.md",
     "Vulns/Searchs/DBs.md",
-    "Windows/Principales Servicios.md",
     "Desarrollo Personal/Aprendizaje Acelerado.md",
-    "Vulns/Cloud/AWS",
     "Vulns/Web/Dirs/Check Dirs.md",
     "Protocols/SSH.md",
     "Protocols/TELNET.md",
@@ -183,7 +184,6 @@
     "Protocols/MYSQL.md",
     "Protocols/KERBEROS.md",
     "Protocols/LDAP.md",
-    "Protocols/RDP.md",
     "Templates/Untitled.canvas"
   ]
 }
