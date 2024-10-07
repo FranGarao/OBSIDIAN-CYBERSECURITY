@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "a5db4be0c0ddc0fc",
+    "id": "e1922c2d6a71bc56",
     "type": "split",
     "children": [
       {
-        "id": "2c99e263a1fe5545",
+        "id": "b2fe435e769f36fc",
         "type": "tabs",
         "children": [
           {
-            "id": "a6a58ec6767b8ad2",
+            "id": "ae956d5f2a14d1ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Tools/Gobuster.md",
+                "file": "Books/Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "94bf7f8da27d0d73",
+    "id": "0a22dfee049ea8eb",
     "type": "split",
     "children": [
       {
-        "id": "6803942c2da0a801",
+        "id": "a2cb9ec99224ebe9",
         "type": "tabs",
         "children": [
           {
-            "id": "dad5263b9c4136e3",
+            "id": "8dcaf72b51d87e95",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "7f60c788cb614aa5",
+            "id": "fab0e142c89d6a9c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "rdp",
+                "query": "impac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,34 +58,35 @@
             }
           },
           {
-            "id": "e047ebdbe020199e",
+            "id": "a8be5bf1311d60f0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "93fad5506ae09960",
+    "id": "39a53e7cc92ea731",
     "type": "split",
     "children": [
       {
-        "id": "845c3a25099a9273",
+        "id": "82c282d70af45b95",
         "type": "tabs",
         "children": [
           {
-            "id": "b16446f8a52a4ade",
+            "id": "8ffa3d51378a6352",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Tools/Gobuster.md",
+                "file": "Books/Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +98,19 @@
             }
           },
           {
-            "id": "80e691f0dbb5228d",
+            "id": "3e02d20a69f04ec9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Tools/Gobuster.md",
+                "file": "Books/Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "40a139f84c4a0332",
+            "id": "835fac43f1ef9463",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +121,12 @@
             }
           },
           {
-            "id": "75338dd98583f60a",
+            "id": "a9f074a9da2c8ce9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Tools/Gobuster.md"
+                "file": "Books/Web.md"
               }
             }
           }
@@ -146,44 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6a58ec6767b8ad2",
+  "active": "fab0e142c89d6a9c",
   "lastOpenFiles": [
-    "Tools/John the Ripper.md",
-    "Web/Tools/Gobuster.md",
-    "Web/Tools",
-    "Tools/Web/Untitled",
-    "Tools/Web",
-    "Tools/Evil WinRm.md",
-    "Windows/Principales Servicios.md",
-    "Web/Vulns/Local File Inclusion (FLI)/File Inclusion Vulnerability.md",
-    "Web/Vulns/NTLM.md",
-    "Web/Vulns/Local File Inclusion (FLI)",
-    "Web/Vulns",
-    "Web",
-    "Tools/Metasploit Framework/Commands.md",
-    "Tools/Metasploit Framework",
-    "Tools",
-    "TODO/Untitled.md",
-    "TODO",
-    "Preguntas/Responder.md",
-    "Preguntas",
-    "DB/Redis/WhatIs.md",
-    "Windows/Vulnerabilidades.md",
-    "Vulns/Cloud/AWS/S3 Bucket.md",
-    "Vulns/Searchs/DBs.md",
-    "Desarrollo Personal/Aprendizaje Acelerado.md",
-    "Vulns/Web/Dirs/Check Dirs.md",
-    "Protocols/SSH.md",
-    "Protocols/TELNET.md",
-    "Protocols/SMB.md",
-    "Protocols/HTTP.md",
-    "Protocols/HTTPS.md",
-    "Protocols/POP3.md",
-    "Protocols/SNMP.md",
-    "Protocols/POSTGRESQL.md",
-    "Protocols/MYSQL.md",
-    "Protocols/KERBEROS.md",
-    "Protocols/LDAP.md",
-    "Templates/Untitled.canvas"
+    "Vulns/Password Spraying.md",
+    "Books/Web.md",
+    "Books"
   ]
 }
