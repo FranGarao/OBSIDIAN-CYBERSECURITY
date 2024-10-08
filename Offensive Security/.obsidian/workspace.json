@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PORTFOLIO/Creacion.md",
+                "file": "OS/Windows/SAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PORTFOLIO/Creacion.md",
+                "file": "OS/Windows/SAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PORTFOLIO/Creacion.md",
+                "file": "OS/Windows/SAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PORTFOLIO/Creacion.md"
+                "file": "OS/Windows/SAM.md"
               }
             }
           }
@@ -148,8 +148,29 @@
   },
   "active": "48069c003f1a4a30",
   "lastOpenFiles": [
-    "Write-Ups/Que es.md",
+    "OS/Windows/ADS.md",
+    "OS/Windows/SAM.md",
+    "OS/Windows/Principales Servicios.md",
+    "Protocols/SMB.md",
+    "Protocols/SMTP.md",
+    "Protocols/RPC.md",
+    "Protocols/POSTGRESQL.md",
+    "Protocols/NTP.md",
+    "Protocols/FTP.md",
+    "Protocols/HTTP.md",
+    "Protocols/HTTPS.md",
+    "Protocols/IMAP.md",
+    "Protocols/KERBEROS.md",
+    "Protocols/LDAP.md",
+    "Protocols/MYSQL.md",
+    "Protocols/POP3.md",
+    "Protocols/TELNET.md",
+    "Protocols/SSH.md",
+    "Protocols/SNMP.md",
+    "Protocols/RDP.md",
+    "Protocols/DNS.md",
     "PORTFOLIO/Creacion.md",
+    "Write-Ups/Que es.md",
     "PORTFOLIO",
     "Python/Reverse shell.md",
     "Write-Ups",
@@ -157,29 +178,8 @@
     "Python",
     "Tools/Impacket.md",
     "DB/Untitled",
-    "TODO/TODO.md",
-    "Protocols/SNMP.md",
-    "Web/Http/Codes.md",
-    "OS/Windows/Commands/Commands.md",
-    "Web/Vulns/SSTI/Server Side Template Injection.md",
-    "Protocols/RPC.md",
-    "OS/Kernel/Kernel.md",
-    "OS/Windows/Vulns/UACMe.md",
     "OS/Windows/Commands",
-    "Protocols/SMB.md",
-    "Protocols/SMTP.md",
-    "Protocols/SSH.md",
-    "Protocols/WinRM.md",
-    "Protocols/TELNET.md",
-    "Protocols/NTP.md",
-    "Protocols/HTTP.md",
-    "Protocols/DNS.md",
-    "Protocols/FTP.md",
-    "OS/Windows/Principales Servicios.md",
-    "OS/Windows/Vulnerabilidades.md",
     "OS/Windows/Vulns",
-    "Vulns/Tunneling.md",
-    "Vulns/Password Spraying.md",
     "Universidad/Ingreso",
     "Universidad",
     "OS/Kernel",
