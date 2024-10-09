@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Web.md",
+                "file": "OS/Windows/Principales Servicios.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impac",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Web.md",
+                "file": "OS/Windows/Principales Servicios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Web.md",
+                "file": "OS/Windows/Principales Servicios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Web.md"
+                "file": "OS/Windows/Principales Servicios.md"
               }
             }
           }
@@ -147,10 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fab0e142c89d6a9c",
+  "active": "ae956d5f2a14d1ed",
   "lastOpenFiles": [
-    "Vulns/Password Spraying.md",
+    "!!!IDEAS/Pentesting.md",
+    "TODO/HTB/Academy Modules.md",
+    "!!!IDEAS",
+    "TODO/TODO.md",
+    "DB/MSSQL/MSSQL CLIENT (script).md",
+    "DB/Untitled.md",
+    "Preguntas/Responder.md",
+    "DB/MSSQL",
     "Books/Web.md",
+    "Vulns/Password Spraying.md",
     "Books"
   ]
 }
