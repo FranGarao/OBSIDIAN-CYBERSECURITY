@@ -1,4 +1,4 @@
-### lementos recomendados para tu portafolio de pentester:
+### Elementos recomendados para tu portafolio de pentester:
 
 1. **Proyectos Propios**
     

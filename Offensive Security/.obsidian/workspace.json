@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Windows/Principales Servicios.md",
+                "file": "Web/Vulns/NTLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "os",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Windows/Principales Servicios.md",
+                "file": "Web/Vulns/NTLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Windows/Principales Servicios.md",
+                "file": "Web/Vulns/NTLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Windows/Principales Servicios.md"
+                "file": "Web/Vulns/NTLM.md"
               }
             }
           }
@@ -146,22 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae956d5f2a14d1ed",
+  "active": "8dcaf72b51d87e95",
   "lastOpenFiles": [
+    "OS/Windows/SAM.md",
+    "Web/Vulns/NTLM.md",
+    "TODO/TODO.md",
+    "OS/Windows/Dumping Hashes.md",
+    "TODO/HTB/Academy Modules.md",
+    "OS/Windows/ADS.md",
+    "CVE-2019-0708.md",
+    "PORTFOLIO/Creacion.md",
+    "OS/Windows/Principales Servicios.md",
     "Write-Ups/Que es.md",
     "Write-Ups",
     "Tools/Impacket.md",
     "Python/Reverse shell.md",
     "Python",
-    "PORTFOLIO/Creacion.md",
     "PORTFOLIO",
-    "OS/Windows/SAM.md",
-    "OS/Windows/ADS.md",
     "DB/MSSQL.md",
     "!!!IDEAS/Pentesting.md",
-    "TODO/HTB/Academy Modules.md",
     "!!!IDEAS",
-    "TODO/TODO.md",
     "DB/MSSQL/MSSQL CLIENT (script).md",
     "DB/Untitled.md",
     "Preguntas/Responder.md",

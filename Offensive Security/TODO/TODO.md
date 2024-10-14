@@ -1,9 +1,7 @@
 
 
 
-Active Directory, Kerberos Authentication, Server Message Block, Hypertext
-Transfer Protocol, Secure Shel
-
+Active Directory, Kerberos Authentication
 
 reveer clase de Kernel ejpt
 
@@ -29,3 +27,14 @@ reverse_shell
 incognito for acces token
 SeImpersonatePrivilege
 >>>>>>> dd2807576588a08edebc0f2d99c68b990294b43c
+
+mimikatz
+kiwi
+lsass.exe
+Dumping Hashes
+badBlue 2.7
+
+pgrep
+migrate
+
+pass-the-hash atack
