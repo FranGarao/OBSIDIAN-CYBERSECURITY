@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Windows/Principales Servicios.md",
+                "file": "!!!IDEAS/Auto-Hacker AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Windows/Principales Servicios.md",
+                "file": "!!!IDEAS/Auto-Hacker AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Windows/Principales Servicios.md",
+                "file": "!!!IDEAS/Auto-Hacker AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Windows/Principales Servicios.md"
+                "file": "!!!IDEAS/Auto-Hacker AI.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "ae956d5f2a14d1ed",
   "lastOpenFiles": [
+    "Books/Web.md",
+    "!!!IDEAS/Auto-Hacker AI.md",
+    "OS/Windows/ADS.md",
+    "OS/Windows/SAM.md",
+    "OS/Windows/Principales Servicios.md",
     "Write-Ups/Que es.md",
     "Write-Ups",
     "Tools/Impacket.md",
@@ -155,8 +160,6 @@
     "Python",
     "PORTFOLIO/Creacion.md",
     "PORTFOLIO",
-    "OS/Windows/SAM.md",
-    "OS/Windows/ADS.md",
     "DB/MSSQL.md",
     "!!!IDEAS/Pentesting.md",
     "TODO/HTB/Academy Modules.md",
@@ -166,7 +169,6 @@
     "DB/Untitled.md",
     "Preguntas/Responder.md",
     "DB/MSSQL",
-    "Books/Web.md",
     "Vulns/Password Spraying.md",
     "Books"
   ]
