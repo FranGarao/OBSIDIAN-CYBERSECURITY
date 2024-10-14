@@ -38,3 +38,8 @@ pgrep
 migrate
 
 pass-the-hash atack
+pcap
+
+
+cap.uid
+capabilitie

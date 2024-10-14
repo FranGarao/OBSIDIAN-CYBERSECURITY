@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Vulns/NTLM.md",
+                "file": "OS/Windows/Capabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "os",
+                "query": "tools",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Vulns/NTLM.md",
+                "file": "OS/Windows/Capabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Vulns/NTLM.md",
+                "file": "OS/Windows/Capabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Vulns/NTLM.md"
+                "file": "OS/Windows/Capabilities.md"
               }
             }
           }
@@ -148,10 +148,17 @@
   },
   "active": "ae956d5f2a14d1ed",
   "lastOpenFiles": [
+    "OS/Linux/Capabilities.md",
+    "OS/Windows/Capabilities.md",
+    "TODO/TODO.md",
+    "OS/Linux/TSHARK.md",
+    "OS/Linux/Commands.md",
+    "Protocols/FTP.md",
+    "OS/Linux/Apache.md",
+    "Web/Vulns/NTLM.md",
+    "OS/Linux",
     "!!!IDEAS/Auto-Hacker AI.md",
     "OS/Windows/SAM.md",
-    "Web/Vulns/NTLM.md",
-    "TODO/TODO.md",
     "OS/Windows/Dumping Hashes.md",
     "TODO/HTB/Academy Modules.md",
     "OS/Windows/ADS.md",
