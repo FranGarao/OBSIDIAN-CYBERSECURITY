@@ -25,6 +25,7 @@
 23. **type** - Verifica si el comando es un alias, función o binario.
 24. **command** - Muestra la ruta del comando si está en el `PATH`.
 25. **dpkg** - Busca si un paquete específico está instalado.
+26. **locate** - Busca la ubicación de un archivo o directorio, si el comando `locate` está configurado correctamente.
 
 ---
 

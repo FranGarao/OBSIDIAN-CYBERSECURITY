@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kali/Commands.md",
+                "file": "OS/Linux/Capabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shellshoc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kali/Commands.md",
+                "file": "OS/Linux/Capabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kali/Commands.md",
+                "file": "OS/Linux/Capabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kali/Commands.md"
+                "file": "OS/Linux/Capabilities.md"
               }
             }
           }
@@ -148,41 +148,40 @@
   },
   "active": "ae956d5f2a14d1ed",
   "lastOpenFiles": [
-    "Kali/Tools/TSHARK/Commands.md",
+    "OS/Linux/Vulns/Apache.md",
+    "OS/Linux/Vulns",
     "Kali/Commands.md",
     "OS/Linux/TSHARK.md",
+    "OS/Linux/Commands.md",
+    "OS/Linux/Capabilities.md",
+    "Bug Bounties/Labs.md",
+    "Bug Bounties/Plataforms.md",
+    "Web/Web Crawling.md",
+    "Bug Bounties/Untitled",
+    "Bug Bounties",
+    "Web/Spidering.md",
+    "Web/Vulns/Business Logic Vulnerabilities.md",
+    "Web/Vulns/Improper Assets Management.md",
+    "Web/Vulns/Injections.md",
+    "Web/Vulns/Security Misconfigurations.md",
+    "Web/Vulns/Mass Assignment.md",
+    "Web/Vulns/Broken Function Level Authorization.md",
+    "Web/Vulns/Lack of Resources and Rate Limiting.md",
+    "Web/Vulns/Excessive Data Exposure.md",
+    "Web/Vulns/Broken User Authentication.md",
+    "Web/Vulns/Broken Object Level Authorization.md",
+    "Web/Vulns/NTLM.md",
+    "Kali/Tools/TSHARK/Commands.md",
     "Kali/Tools/TSHARK",
     "Kali/Tools",
-    "OS/Linux/Commands.md",
     "Kali",
     "!!!IDEAS/Auto-Hacker AI.md",
     "OS/Windows/UACMe.md",
     "OS/Windows/Dumping Hashes.md",
     "OS/Windows/Capabilities.md",
-    "OS/Linux/Capabilities.md",
-    "OS/Linux/Apache.md",
     "OS/Linux",
-    "Books/Web.md",
-    "OS/Windows/ADS.md",
-    "OS/Windows/SAM.md",
-    "OS/Windows/Principales Servicios.md",
-    "Write-Ups/Que es.md",
     "Write-Ups",
-    "Tools/Impacket.md",
-    "Python/Reverse shell.md",
     "Python",
-    "PORTFOLIO/Creacion.md",
-    "PORTFOLIO",
-    "DB/MSSQL.md",
-    "!!!IDEAS/Pentesting.md",
-    "TODO/HTB/Academy Modules.md",
-    "!!!IDEAS",
-    "TODO/TODO.md",
-    "DB/MSSQL/MSSQL CLIENT (script).md",
-    "DB/Untitled.md",
-    "Preguntas/Responder.md",
-    "DB/MSSQL",
-    "Vulns/Password Spraying.md",
-    "Books"
+    "PORTFOLIO"
   ]
 }
