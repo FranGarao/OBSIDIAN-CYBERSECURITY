@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Windows/Capabilities.md",
+                "file": "!!!IDEAS/Auto-Hacker AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tools",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Windows/Capabilities.md",
+                "file": "!!!IDEAS/Auto-Hacker AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Windows/Capabilities.md",
+                "file": "!!!IDEAS/Auto-Hacker AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Windows/Capabilities.md"
+                "file": "!!!IDEAS/Auto-Hacker AI.md"
               }
             }
           }
@@ -148,37 +148,35 @@
   },
   "active": "ae956d5f2a14d1ed",
   "lastOpenFiles": [
-    "OS/Linux/Capabilities.md",
+    "OS/Windows/UACMe.md",
+    "OS/Windows/Dumping Hashes.md",
     "OS/Windows/Capabilities.md",
-    "TODO/TODO.md",
     "OS/Linux/TSHARK.md",
     "OS/Linux/Commands.md",
-    "Protocols/FTP.md",
+    "OS/Linux/Capabilities.md",
     "OS/Linux/Apache.md",
-    "Web/Vulns/NTLM.md",
     "OS/Linux",
+    "Books/Web.md",
     "!!!IDEAS/Auto-Hacker AI.md",
-    "OS/Windows/SAM.md",
-    "OS/Windows/Dumping Hashes.md",
-    "TODO/HTB/Academy Modules.md",
     "OS/Windows/ADS.md",
-    "CVE-2019-0708.md",
-    "PORTFOLIO/Creacion.md",
+    "OS/Windows/SAM.md",
     "OS/Windows/Principales Servicios.md",
     "Write-Ups/Que es.md",
     "Write-Ups",
     "Tools/Impacket.md",
     "Python/Reverse shell.md",
     "Python",
+    "PORTFOLIO/Creacion.md",
     "PORTFOLIO",
     "DB/MSSQL.md",
     "!!!IDEAS/Pentesting.md",
+    "TODO/HTB/Academy Modules.md",
     "!!!IDEAS",
+    "TODO/TODO.md",
     "DB/MSSQL/MSSQL CLIENT (script).md",
     "DB/Untitled.md",
     "Preguntas/Responder.md",
     "DB/MSSQL",
-    "Books/Web.md",
     "Vulns/Password Spraying.md",
     "Books"
   ]
