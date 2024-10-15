@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!!!IDEAS/Auto-Hacker AI.md",
+                "file": "Kali/Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!!!IDEAS/Auto-Hacker AI.md",
+                "file": "Kali/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!!!IDEAS/Auto-Hacker AI.md",
+                "file": "Kali/Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "!!!IDEAS/Auto-Hacker AI.md"
+                "file": "Kali/Commands.md"
               }
             }
           }
@@ -148,16 +148,21 @@
   },
   "active": "ae956d5f2a14d1ed",
   "lastOpenFiles": [
+    "Kali/Tools/TSHARK/Commands.md",
+    "Kali/Commands.md",
+    "OS/Linux/TSHARK.md",
+    "Kali/Tools/TSHARK",
+    "Kali/Tools",
+    "OS/Linux/Commands.md",
+    "Kali",
+    "!!!IDEAS/Auto-Hacker AI.md",
     "OS/Windows/UACMe.md",
     "OS/Windows/Dumping Hashes.md",
     "OS/Windows/Capabilities.md",
-    "OS/Linux/TSHARK.md",
-    "OS/Linux/Commands.md",
     "OS/Linux/Capabilities.md",
     "OS/Linux/Apache.md",
     "OS/Linux",
     "Books/Web.md",
-    "!!!IDEAS/Auto-Hacker AI.md",
     "OS/Windows/ADS.md",
     "OS/Windows/SAM.md",
     "OS/Windows/Principales Servicios.md",
