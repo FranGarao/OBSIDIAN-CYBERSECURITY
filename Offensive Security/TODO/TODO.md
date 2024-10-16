@@ -26,7 +26,7 @@ reverse_tcp
 reverse_shell
 incognito for acces token
 SeImpersonatePrivilege
->>>>>>> dd2807576588a08edebc0f2d99c68b990294b43c
+>> dd2807576588a08edebc0f2d99c68b990294b43c @saddsa@!
 
 mimikatz
 kiwi
@@ -43,3 +43,6 @@ pcap
 
 cap.uid
 capabilitie
+
+
+shadow file (/etc/shadow)
