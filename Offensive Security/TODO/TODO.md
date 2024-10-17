@@ -3,13 +3,10 @@
 
 Active Directory, Kerberos Authentication
 
-reveer clase de Kernel ejpt
+ver clase de Kernel ejpt
 
 fingerprinting
-
-<<<<<<< HEAD
 impacket
-=======
 windows acces token (incognito tool)
 
 https://understood-decimal-812.notion.site/Bug-Bounty-aa052e67ac4b4baabafa62f7e9eeca6a

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Linux/Credential Dumping/Dumping Linux Password Hashes.md",
+                "file": "Kali/Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Linux/Credential Dumping/Dumping Linux Password Hashes.md",
+                "file": "Kali/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Linux/Credential Dumping/Dumping Linux Password Hashes.md",
+                "file": "Kali/Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Linux/Credential Dumping/Dumping Linux Password Hashes.md"
+                "file": "Kali/Commands.md"
               }
             }
           }
@@ -148,8 +148,24 @@
   },
   "active": "ae956d5f2a14d1ed",
   "lastOpenFiles": [
-    "OS/Linux/Privilege Escalation/Exploiting SUID BINARIES.md",
+    "Pentesting/Process.md",
+    "Bug Bounties/Labs.md",
+    "Pentesting",
+    "Network/Layers.md",
+    "Network/Packets.md",
+    "Vulns/Password Spraying.md",
+    "Write-Ups/Que es.md",
+    "CVE-2019-0708.md",
+    "2024-10-15.md",
+    "Universidad/Ingreso/Produccion Audiovisual.md",
+    "Books/Web.md",
+    "Desarrollo Personal/Aprendizaje Acelerado.md",
+    "TODO/TODO.md",
+    "Programming",
+    "Network",
+    "TODO/HTB/Academy Modules.md",
     "OS/Linux/Credential Dumping/Dumping Linux Password Hashes.md",
+    "OS/Linux/Privilege Escalation/Exploiting SUID BINARIES.md",
     "OS/Linux/Credential Dumping",
     "OS/Linux/Permissions.md",
     "OS/Linux/Capabilities.md",
@@ -160,29 +176,13 @@
     "OS/Linux/Vulns/Cron Jobs.md",
     "OS/Linux/Privilege Escalation",
     "OS/Linux/Vulns/Kernel.md",
-    "TODO/TODO.md",
-    "2024-10-15.md",
     "PORTFOLIO/Creacion.md",
     "OS/Linux/Vulns/SAMBA.md",
     "Kali/Tools/tar.gz.md",
-    "Bug Bounties/Plataforms.md",
-    "Bug Bounties/Labs.md",
-    "OS/Windows/Capabilities.md",
-    "Web/Web Crawling.md",
-    "Web/Vulns/Security Misconfigurations.md",
-    "Web/Vulns/Mass Assignment.md",
-    "Web/Vulns/Lack of Resources and Rate Limiting.md",
-    "Web/Vulns/Injections.md",
-    "Web/Vulns/Improper Assets Management.md",
-    "Web/Vulns/Excessive Data Exposure.md",
-    "Web/Vulns/Business Logic Vulnerabilities.md",
     "OS/Linux/Vulns",
     "Kali/Tools/TSHARK",
     "Kali/Tools",
     "Kali",
-    "Bug Bounties",
-    "OS/Linux",
-    "Write-Ups",
-    "Python"
+    "Bug Bounties"
   ]
 }
