@@ -28,7 +28,7 @@ mget
 
 
 #Vulns 
-anonymous access
+intentar iniciar sesion como anonymous 
 ```bash
 ls -al /usr/share/nmap/scripts/ | grep ftp-*
 #brute force

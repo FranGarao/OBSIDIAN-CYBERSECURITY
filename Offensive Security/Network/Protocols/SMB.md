@@ -35,7 +35,7 @@ WorkShares - Custom share.
 
 #Vulns
 - PsExec
-
+- enum4linux
 **nmap scripts**
 - smb-vuln-ms17-010
 
