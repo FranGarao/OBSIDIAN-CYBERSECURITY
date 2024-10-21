@@ -25,12 +25,14 @@
             "id": "acf042422abc078b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "!Work/Hospital/API.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "API"
             }
           }
         ],
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/TODO.md",
+                "file": "!Work/Hospital/API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TODO"
+              "title": "Backlinks for API"
             }
           },
           {
@@ -125,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO/TODO.md",
+                "file": "!Work/Hospital/API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TODO"
+              "title": "Outgoing links from API"
             }
           },
           {
@@ -152,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO/TODO.md"
+                "file": "!Work/Hospital/API.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of TODO"
+              "title": "Outline of API"
             }
           }
         ]
@@ -177,41 +179,41 @@
   },
   "active": "acf042422abc078b",
   "lastOpenFiles": [
+    "!!!IDEAS/Pentesting.md",
+    "!Work/Hospital/API.md",
+    "!Work/Hospital",
+    "Vulns/Firewall/FW Detection & IDS Evasion.md",
+    "!Work",
+    "Vulns/Web/Dirs/Check Dirs.md",
+    "Web/Tools/waybackurls.md",
+    "Web/Tools/subzy.md",
+    "Web/Tools/socialhunter.md",
+    "Web/Tools/oneforall.py.md",
+    "Web/Tools/nuclei-templates.md",
+    "Web/Tools/arjun.md",
+    "Web/Tools/ffuf.md",
+    "Web/Tools/Gobuster.md",
+    "Web/Tools/httpx.md",
+    "Web/Tools/nuclei.md",
+    "PORTFOLIO/links.md",
+    "PORTFOLIO/Creacion.md",
+    "Notes/commands kali.md",
     "pw g_hc.md",
     "Web/Vulns/XSS.md",
     "Web/Tools/xss_vibes.md",
-    "Web/Tools/waybackurls.md",
-    "Web/Tools/subzy.md",
     "Web/Tools/subfinder.md",
     "Web/Tools/sql-map.md",
-    "Web/Tools/socialhunter.md",
-    "Web/Tools/oneforall.py.md",
-    "Web/Tools/nuclei.md",
-    "Web/Tools/nuclei-templates.md",
     "Web/Tools/n0kovo_subdomains.md",
     "Web/Tools/katana.md",
-    "Web/Tools/httpx.md",
-    "Web/Tools/ffuf.md",
-    "Web/Tools/arjun.md",
     "Web/Tools/LinkFinder.md",
-    "Vulns/Firewall/FW Detection & IDS Evasion.md",
     "Vulns/Firewall",
     "Programming/Python/Reverse shell.md",
     "Programming/Python",
     "Programming",
-    "Pentesting/Process.md",
     "Pentesting",
-    "OS/Linux/Vulns/SAMBA.md",
-    "OS/Linux/Vulns/Kernel.md",
-    "OS/Linux/Vulns/Cron Jobs.md",
-    "OS/Linux/Privilege Escalation/Exploiting SUID BINARIES.md",
     "OS/Linux/Privilege Escalation",
-    "OS/Linux/Permissions.md",
-    "OS/Linux/Credential Dumping/Dumping Linux Password Hashes.md",
     "OS/Linux/Credential Dumping",
     "Network/Protocols",
-    "Network",
-    "Labs",
-    "Kali/Tools/Metasploit Framework"
+    "Network"
   ]
 }
