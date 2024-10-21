@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Linux/Capabilities.md",
+                "file": "TODO/TODO.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "acf042422abc078b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Linux/Capabilities.md",
+                "file": "TODO/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TODO"
             }
           },
           {
@@ -102,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Linux/Capabilities.md",
+                "file": "TODO/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TODO"
             }
           },
           {
@@ -116,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Linux/Capabilities.md"
-              }
+                "file": "TODO/TODO.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TODO"
             }
           }
         ]
@@ -146,14 +175,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae956d5f2a14d1ed",
+  "active": "acf042422abc078b",
   "lastOpenFiles": [
+    "Notes/commands kali.md",
+    "TODO/Untitled.md",
+    "Notes",
+    "OS/Linux/Capabilities.md",
     "OS/Linux/Vulns/Apache.md",
     "OS/Linux/Vulns",
     "Kali/Commands.md",
     "OS/Linux/TSHARK.md",
     "OS/Linux/Commands.md",
-    "OS/Linux/Capabilities.md",
     "Bug Bounties/Labs.md",
     "Bug Bounties/Plataforms.md",
     "Web/Web Crawling.md",
@@ -178,10 +210,8 @@
     "!!!IDEAS/Auto-Hacker AI.md",
     "OS/Windows/UACMe.md",
     "OS/Windows/Dumping Hashes.md",
-    "OS/Windows/Capabilities.md",
     "OS/Linux",
     "Write-Ups",
-    "Python",
-    "PORTFOLIO"
+    "Python"
   ]
 }
