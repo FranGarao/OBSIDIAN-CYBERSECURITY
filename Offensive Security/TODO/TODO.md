@@ -3,13 +3,10 @@
 
 Active Directory, Kerberos Authentication
 
-reveer clase de Kernel ejpt
+ver clase de Kernel ejpt
 
 fingerprinting
-
-<<<<<<< HEAD
 impacket
-=======
 windows acces token (incognito tool)
 
 https://understood-decimal-812.notion.site/Bug-Bounty-aa052e67ac4b4baabafa62f7e9eeca6a
@@ -26,7 +23,7 @@ reverse_tcp
 reverse_shell
 incognito for acces token
 SeImpersonatePrivilege
->>>>>>> dd2807576588a08edebc0f2d99c68b990294b43c
+>> dd2807576588a08edebc0f2d99c68b990294b43c @saddsa@!
 
 mimikatz
 kiwi
@@ -44,6 +41,7 @@ pcap
 cap.uid
 capabilitie
 
+<<<<<<< HEAD
 multihandler exploit? 
 
 
@@ -100,3 +98,7 @@ Network Card(s):           1 NIC(s) Installed.
                                  [03]: dead:beef::7c4d:610d:18dd:7df0
                                  [04]: dead:beef::8519:f36f:762d:beeb
 
+=======
+
+shadow file (/etc/shadow)
+>>>>>>> b6d82b1119319b537ed79423bf28a9749ab3f196

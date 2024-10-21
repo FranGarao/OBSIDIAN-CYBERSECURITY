@@ -1,0 +1,50 @@
+- Lame $X$ 
+- Jerry $X$ 
+- Blue $X$
+- Bashed $X$
+- Beep
+- Shocker
+- Nibbles
+- Optimum
+- Granny
+- Devel $X$
+- Legacy
+- Grandpa
+- Bastion
+- Netmon
+- Irked
+- Popcorn
+- OpenAdmin
+- Bank
+- Postman
+- Valentine
+- Forest
+- Fuse
+- Magic
+- Arctic
+- Blunder
+- Ypuffy
+- Curling
+- Bounty
+- Chaos
+- Monteverde
+- SolidState
+- Buff
+- Knife
+- Oopsie
+- Poison
+- Blackfield
+- TartarSauce
+- Blocky
+- SneakyMailer
+- Nineveh
+- Heist
+- Traceback
+- Sauna
+- Active
+- Bitlab
+- Buff
+- Friendzone
+- Traverxec
+- Mango
+- Fortune
