@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offensive Security/!Work/Hospital/Vulns.md",
+                "file": "Offensive Security/Web/Tools/Recon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vulns"
+              "title": "Recon"
             }
           }
         ]
@@ -164,9 +164,12 @@
   },
   "active": "c29f12265a30a5c7",
   "lastOpenFiles": [
-    "Offensive Security/!Work/Hospital/API.md",
-    "Offensive Security/!Work/Hospital/Vulns.md",
+    "Offensive Security/pw g_hc.md",
+    "Offensive Security/Web/Tools/Recon.md",
+    "Offensive Security/Web/Tools/Recon",
     "Offensive Security/!Work/Hospital/TODOs.md",
+    "Offensive Security/!Work/Hospital/Vulns.md",
+    "Offensive Security/!Work/Hospital/API.md",
     "Offensive Security/!Work/Hospital/Untitled"
   ]
 }
