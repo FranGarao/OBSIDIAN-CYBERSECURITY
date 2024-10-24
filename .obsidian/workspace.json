@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "35842c2c9202c9a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "552b700dd02e4cd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c29f12265a30a5c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Offensive Security/!Work/Hospital/TODOs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODOs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d30e906f938fb1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "58040ab6c43751b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "870fff41217bfeb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "06c4448b28b63912",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2094f5f829a917ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83251407fa5a3322",
+    "type": "split",
+    "children": [
+      {
+        "id": "77f18314d7e1d502",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1762bc508ba9a7ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Offensive Security/!Work/Hospital/TODOs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TODOs"
+            }
+          },
+          {
+            "id": "6d1371771beb1c48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Offensive Security/!Work/Hospital/TODOs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TODOs"
+            }
+          },
+          {
+            "id": "41e61d65be34c7f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "27550ea88d1ed642",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Offensive Security/!Work/Hospital/TODOs.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TODOs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c29f12265a30a5c7",
+  "lastOpenFiles": [
+    "Offensive Security/!Work/Hospital/API.md",
+    "Offensive Security/!Work/Hospital/TODOs.md",
+    "Offensive Security/!Work/Hospital/Untitled"
+  ]
+}
