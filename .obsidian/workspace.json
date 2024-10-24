@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offensive Security/!Work/Hospital/TODOs.md",
+                "file": "Offensive Security/!Work/Hospital/Vulns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODOs"
+              "title": "Vulns"
             }
           }
         ]
@@ -165,6 +165,7 @@
   "active": "c29f12265a30a5c7",
   "lastOpenFiles": [
     "Offensive Security/!Work/Hospital/API.md",
+    "Offensive Security/!Work/Hospital/Vulns.md",
     "Offensive Security/!Work/Hospital/TODOs.md",
     "Offensive Security/!Work/Hospital/Untitled"
   ]
